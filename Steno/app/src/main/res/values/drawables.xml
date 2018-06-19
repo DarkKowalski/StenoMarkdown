@@ -1,0 +1,3 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_floating_add" type="drawable">@drawable/ic_floating_add</item>
+</resources>
