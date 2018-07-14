@@ -1,5 +1,6 @@
 package top.kowalski.steno.view;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -83,11 +84,12 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_local) {
-            // Handle the camera action
+            // Handle the loacl action
         } else if (id == R.id.nav_cloud) {
 
         } else if (id == R.id.nav_about) {
-
+         AboutActivity.startAboutActivity(this);
+         return true;
         }
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

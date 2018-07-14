@@ -19,6 +19,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".view.AboutActivity"
+            android:parentActivityName=".view.MainActivity"
+            android:label="@string/label_about"
+            ></activity>
     </application>
 
 </manifest>

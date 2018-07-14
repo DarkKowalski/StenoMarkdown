@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/content/ic_add_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Application/Android%20Studio/IDE/plugins/android/lib/android.jar!/images/material_design_icons/social/ic_public_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,8 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_floating_add" />
-                            <entry key="sourceFile" value="C:\Users\darkk" />
+                            <entry key="outputName" value="ic_license" />
+                            <entry key="sourceFile" value="C:\Users\Kowalski" />
                           </map>
                         </option>
                       </PersistentState>
